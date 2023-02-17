@@ -17,3 +17,4 @@ export class MyModule {
 
   ngDoBootstrap() {}
 }
+https://medium.com/@metinarslanturkk/how-i-implemented-dynamic-loaded-framework-agnostic-microfrontend-app-with-nextjs-and-react-which-620ff3df4298
